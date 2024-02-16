@@ -6,7 +6,7 @@ Project Description:
 
 In the pursuit of optimizing manufacturing processes and contributing to greener practices, the Mercedes-Benz Greener Manufacturing project aims to predict the time it takes for a car to pass testing. The dataset comprises various features, including binary and categorical variables, with the target variable "y" representing the testing time in seconds.
 
-The project initiates with a comprehensive data preprocessing phase, where irrelevant features, such as those with a constant value of 0, are identified and removed. This meticulous data cleaning process ensures that only meaningful information is utilized in subsequent analyses.
+The project initiates with a comprehensive data preprocessing phase, where irrelevant features, such as those with a constant value of 0, are identified and removed. This meticulous data-cleaning process ensures that only meaningful information is utilized in subsequent analyses.
 
 Exploratory Data Analysis (EDA) and data visualization techniques are employed to gain insights into the relationships between different features and the testing time. The exploration particularly focuses on the categorical features, among which "X0" emerges as a significant contributor to the target variable.
 
