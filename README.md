@@ -1,4 +1,4 @@
-# Mercedes-Benz
+# Mercedes
 Project Title: Mercedes-Benz Greener Manufacturing
 
 Project Description:
