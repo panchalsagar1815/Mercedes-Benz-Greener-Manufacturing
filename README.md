@@ -10,7 +10,7 @@ The project initiates with a comprehensive data preprocessing phase, where irrel
 
 Exploratory Data Analysis (EDA) and data visualization techniques are employed to gain insights into the relationships between different features and the testing time. The exploration particularly focuses on the categorical features, among which "X0" emerges as a significant contributor to the target variable.
 
-The modeling phase employs a sophisticated approach using TPOT (Tree-based Pipeline Optimization Tool) to automatically discover the most effective machine learning pipeline for predicting testing times. The generated models undergo multiple iterations (generations), with the best-performing model evolving over each generation.
+The modelling phase employs a sophisticated approach using TPOT (Tree-based Pipeline Optimization Tool) to automatically discover the most effective machine learning pipeline for predicting testing times. The generated models undergo multiple iterations (generations), with the best-performing model evolving over each generation.
 
 The current best internal cross-validation scores indicate the efficacy of the RandomForestRegressor model, revealing its potential for accurate predictions. The model is fine-tuned with parameters such as bootstrap, max_features, min_samples_leaf, min_samples_split, and n_estimators, resulting in improved performance.
 
